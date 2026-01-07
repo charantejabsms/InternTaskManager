@@ -14,6 +14,8 @@ import { I18n } from './src/constants/localization';
 
 const Stack = createNativeStackNavigator();
 
+// This is a test comment for my first PR
+
 export default function App() {
   return (
     <Provider store={store}>
